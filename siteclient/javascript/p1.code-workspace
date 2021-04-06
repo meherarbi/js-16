@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Nodejs"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../../../var/www/html/siteclient"
+		},
+		{
+			"path": "../../../../../TP Node/TP1"
+		}
+	],
+	"settings": {}
+}
